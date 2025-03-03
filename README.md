@@ -12,7 +12,8 @@ Ensure you have Python installed along with the required library:
 
 ```bash
 pip install PyPDF2
+```
 
-Output
-Input: HELLO.pdf
-Output: encrypted_Hello.pdf (password-protected)
+## **Output**
+- Input: HELLO.pdf
+- Output: encrypted_Hello.pdf (password-protected)
